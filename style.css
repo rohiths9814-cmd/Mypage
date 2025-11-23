@@ -18,3 +18,9 @@ hr{
 h2{
     color: orange;
 }
+ul{
+    padding-left: 80px;
+}
+ol{
+    padding-left: 80px;
+}
