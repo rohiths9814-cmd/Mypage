@@ -15,12 +15,34 @@ p{
 hr{
     border: 2px solid white;
 }
+.one{
+    color: greenyellow;
+    text-align: center;
+}
+#one{
+    padding-left: 700px;
+}
+.two{
+    color: aqua;
+    text-align: center;
+}
+#two{
+    padding-left: 700px;
+}
+.three{
+    color: blueviolet;
+    text-align: center;
+}
+#three{
+    padding-left: 700px;
+}
+.four{
+    color: rgb(227, 8, 70);
+    text-align: center;
+}
+#four{
+    padding-left: 700px;
+}
 h2{
     color: orange;
-}
-ul{
-    padding-left: 80px;
-}
-ol{
-    padding-left: 80px;
 }
