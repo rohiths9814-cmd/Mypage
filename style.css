@@ -21,6 +21,7 @@ hr{
 }
 #one{
     padding-left: 700px;
+    font-size: 30px
 }
 .two{
     color: aqua;
@@ -28,6 +29,7 @@ hr{
 }
 #two{
     padding-left: 700px;
+    font-size: 30px;
 }
 .three{
     color: blueviolet;
@@ -35,6 +37,7 @@ hr{
 }
 #three{
     padding-left: 700px;
+    font-size: 30px;
 }
 .four{
     color: rgb(227, 8, 70);
@@ -42,6 +45,7 @@ hr{
 }
 #four{
     padding-left: 700px;
+    font-size: 30px;
 }
 h2{
     color: orange;
