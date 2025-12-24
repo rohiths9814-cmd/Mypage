@@ -10,7 +10,7 @@ h1{
     text-align: center;
 }
 p{
-    font-style: italic;
+    font: italic;
 } 
 hr{
     border: 2px solid white;
@@ -21,7 +21,8 @@ hr{
 }
 #one{
     padding-left: 450px;
-    font-size: 30px
+    font-size: 30px;
+    margin: 100px;
 }
 .two{
     color: aqua;
@@ -30,6 +31,7 @@ hr{
 #two{
     padding-left: 450px;
     font-size: 30px;
+    margin: 100px;
 }
 .three{
     color: blueviolet;
@@ -38,6 +40,7 @@ hr{
 #three{
     padding-left: 450px;
     font-size: 30px;
+    margin: 100px;
 }
 .four{
     color: rgb(227, 8, 70);
@@ -46,6 +49,7 @@ hr{
 #four{
     padding-left: 450px;
     font-size: 30px;
+    margin: 100px;
 }
 h2{
     color: orange;
